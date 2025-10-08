@@ -1,6 +1,3 @@
-# Shreyabhat11
-Data Science Enthusiast | Python | SQL | ML | Seeking Data Scientist Roles
-
 <h1 align="center">Hi there, I'm Shreya Bhat 👋</h1>
 
 <p align="center">
